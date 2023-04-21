@@ -9,5 +9,5 @@ Team Member 3 - http://trailblazer.me/id/skumar9222
 
 # SOURCE FILE...
 
-Project template pdf -
-Video demonstration link -
+PROJECT REPORT TEMPLATE :
+PROJECT VIDEO DEMONSTRACTION :
