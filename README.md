@@ -1,4 +1,4 @@
-# CRM-APP-SCHOOL-MANAGEMENT...
+# CRM-APP-SCHOOL-MANAGEMENT
 
 Trailhead URL's
                 
@@ -7,7 +7,7 @@ Team Member 1 - https://trailblazer.me/id/srilm7 ,
 Team Member 2 - https://trailblazer.me/id/skumar9218 ,
 Team Member 3 - http://trailblazer.me/id/skumar9222 ,
 
-# SOURCE FILE...
+# #SOURCE FILE
 
 PROJECT REPORT TEMPLATE :
 PROJECT VIDEO DEMONSTRACTION :
